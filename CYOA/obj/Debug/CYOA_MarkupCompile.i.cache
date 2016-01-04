@@ -1,0 +1,20 @@
+﻿CYOA
+
+
+winexe
+C#
+.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\
+CYOA
+none
+false
+DEBUG;TRACE
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\App.xaml
+11-1160971553
+21339436180
+331887629515
+23721304230
+BaseWindow.xaml;pages\StoryGeneratorActionPage.xaml;pages\StoryGeneratorStageOne.xaml;pages\StoryGeneratorOLD.xaml;pages\LoadPage.xaml;pages\StorySelection.xaml;pages\MainMenu.xaml;pages\StoryGeneratorStageTwo.xaml;pages\Story.xaml;ProgressBar.xaml;utilities\StoryTree.xaml;
+
+False
+

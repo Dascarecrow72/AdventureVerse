@@ -1,0 +1,163 @@
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\bin\Debug\CYOA.exe.config
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\bin\Debug\CYOA.exe.manifest
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\bin\Debug\CYOA.application
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\bin\Debug\CYOA.exe
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\bin\Debug\CYOA.pdb
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\BaseWindow.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\StorySelection.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\LoadPage.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\MainMenu.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\StoryGenerator.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\Story.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\ProgressBar.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\BaseWindow.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\StorySelection.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\LoadPage.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\MainMenu.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\StoryGenerator.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\pages\Story.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\ProgressBar.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\App.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA_MarkupCompile.cache
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA.g.resources
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA.Properties.Resources.resources
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA.csproj.GenerateResource.Cache
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA.exe.manifest
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA.application
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA.exe
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA.pdb
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA.csprojResolveAssemblyReference.cache
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\obj\Debug\CYOA_Content.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\BaseWindow.baml
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\LoadPage.baml
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StorySelection.baml
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\MainMenu.baml
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGenerator.baml
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\Story.baml
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\ProgressBar.baml
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\BaseWindow.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\LoadPage.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StorySelection.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\MainMenu.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGenerator.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\Story.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\ProgressBar.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\App.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA_Content.g.cs
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA_MarkupCompile.cache
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.g.resources
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.Properties.Resources.resources
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.csproj.GenerateResource.Cache
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.exe
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.pdb
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.exe.config
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.exe.manifest
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.application
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.exe
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.pdb
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.exe.manifest
+C:\Users\Cody\Documents\Visual Studio 2015\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.application
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.exe.config
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.exe.manifest
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.application
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.exe
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\CYOA.pdb
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.csprojResolveAssemblyReference.cache
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\BaseWindow.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorOLD.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\LoadPage.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StorySelection.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\MainMenu.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\Story.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\ProgressBar.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\BaseWindow.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorOLD.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\LoadPage.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StorySelection.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\MainMenu.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\Story.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\ProgressBar.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\App.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA_Content.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA_MarkupCompile.cache
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.g.resources
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.Properties.Resources.resources
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.csproj.GenerateResource.Cache
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.exe.manifest
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.application
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.exe
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.pdb
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorStageOne.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorStageTwo.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorStageOne.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorStageTwo.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\dark.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\utilities\StoryTree.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\utilities\StoryTree.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA_MarkupCompile.lref
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorActionPage.baml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorActionPage.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\bin\Debug\music\dark.mp3
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\bin\Debug\music\testmusic.mp3
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\bin\Debug\CYOA.exe.config
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\bin\Debug\CYOA.exe.manifest
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\bin\Debug\CYOA.application
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\bin\Debug\CYOA.exe
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\bin\Debug\CYOA.pdb
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA.csprojResolveAssemblyReference.cache
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\BaseWindow.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorActionPage.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorStageOne.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorOLD.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\LoadPage.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StorySelection.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\MainMenu.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\Story.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\ProgressBar.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\utilities\StoryTree.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\BaseWindow.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorActionPage.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorStageOne.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorOLD.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\LoadPage.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StorySelection.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\MainMenu.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorStageTwo.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\Story.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\ProgressBar.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\utilities\StoryTree.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\App.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA_Content.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA_MarkupCompile.cache
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA_MarkupCompile.lref
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\pages\StoryGeneratorStageTwo.baml
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA.g.resources
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA.Properties.Resources.resources
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA.csproj.GenerateResource.Cache
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA.exe.manifest
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA.application
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA.exe
+C:\Users\Cody\Desktop\CYOA\CYOA\CYOA\obj\Debug\CYOA.pdb
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Angry1.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Angry2.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Bright1.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Bright2.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Calm1.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Calm2.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Dark2.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Dramatic1.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Dramatic2.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Funky1.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Funky2.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Happy1.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Happy2.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Inspirational1.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Inspirational2.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Romantic1.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Sad1.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\music\Sad2.mp3
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\obj\Debug\CYOA.TrustInfo.xml
+C:\Users\ccummings\Documents\Visual Studio 2012\Projects\CYOA\CYOA\CYOA\bin\Debug\menu\menu1.mp3
